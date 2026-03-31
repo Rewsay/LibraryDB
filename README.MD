@@ -1,12 +1,19 @@
 LibraryDB
 
 Таблицы:
+
 Readers
+
 Authors
+
 Books
+
 Genres
+
 BookGenres
+
 Loans
+
 
 Связи: 
 Authors (Авторы) → Books (Книги)
